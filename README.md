@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashish Pratap Singh</h1>
 <h3 align="center">Aspiring Software Engineer | Data & Automation Enthusiast</h3>
-
-
 ---
 
 ### 👨‍💻 About Me
@@ -47,8 +45,12 @@ I'm a passionate software developer focused on building real-world, impactful te
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashishpratap9&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashishpratap9&theme=tokyonight" alt="streak" />
+  <a href="https://github.com/kashishpratap9">
+    <img src="https://github-readme-stats.vercel.app/api?username=kashishpratap9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/kashishpratap9">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashishpratap9&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
