@@ -10,7 +10,6 @@ I'm a passionate software developer focused on building real-world, impactful te
 - 🧠 Solved 400+ LeetCode problems | ⭐ 5-Star C++ on HackerRank
 - 📬 Reach me at: `kashishpratap4@gmail.com`
 
----
 
 ### ⚒️ Tech Stack
 
@@ -28,7 +27,6 @@ I'm a passionate software developer focused on building real-world, impactful te
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
 
 ### 📌 Featured Projects
 
@@ -37,8 +35,6 @@ I'm a passionate software developer focused on building real-world, impactful te
 | [🧠 StudyBuddy](https://github.com/kashishpratap9/StudyBuddy) | An AI study assistant using Streamlit and LangChain |
 | [🩺 AI Medical Recommender](https://github.com/kashishpratap9/AI-Medical-Recommendation-System) | Suggests treatments based on symptoms using ML & Streamlit |
 | [📒 NoteStack](https://github.com/kashishpratap9/NoteStack) | Smart note-taking and task management app built with Django |
-
----
 
 ### 📊 GitHub Stats
 
@@ -51,7 +47,6 @@ I'm a passionate software developer focused on building real-world, impactful te
   </a>
 </p>
 
----
 
 ### 🌐 Let's Connect
 
