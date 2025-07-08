@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kashish Pratap Singh</h1>
 <h3 align="center">Aspiring Software Engineer | Data & Automation Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=💡+Software+Development+%7C+ML+%26+AI+Explorer;🚀+Building+Techxpert+%7C+NoteStack+%7C+AI+Health+System;🤝+Open+Source+Contributor+%7C+Backend+Dev" alt="Typing SVG" />
-</p>
 
 ---
 
 ### 👨‍💻 About Me
 
+
 I'm a passionate software developer focused on building real-world, impactful tech solutions. I enjoy working on projects involving backend development, automation, and AI integrations.
 
-- 💻 Currently exploring: **Django**, **Streamlit**, **OpenCV**, **ML Ops**
+- 💻 Currently exploring: **Automation tools**(Docker, jenkins), **JavaScript**, **Django**, and **AWS Cloud Services**
 - ⚙️ Learning DevOps tools like **Docker**, **CI/CD**, **GitHub Actions**
-- 🧠 Solved 400+ LeetCode problems | ⭐ 5-Star C++ on HackerRank
+- 🧠 Solved 150+ LeetCode problems | ⭐ 5-Star C++ on HackerRank
 - 📬 Reach me at: `kashishpratap4@gmail.com`
 
 ---
