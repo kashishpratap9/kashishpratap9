@@ -1,63 +1,67 @@
 <h1 align="center">Hi 👋, I'm Kashish Pratap Singh</h1>
-<h3 align="center">💻 Aspiring Software Developer | Data Science & AI Enthusiast | Open Source Explorer</h3>
+<h3 align="center">Aspiring Software Engineer | Data & Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=🎓+BTech+@+LPU;💡+Software+Development+%7C+Machine+Learning+%7C+Backend+Dev;🚀+Building+Techxpert+%7C+NoteStack+%7C+AI+Medical+Recommender" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=💡+Software+Development+%7C+ML+%26+AI+Explorer;🚀+Building+Techxpert+%7C+NoteStack+%7C+AI+Health+System;🤝+Open+Source+Contributor+%7C+Backend+Dev" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm an aspiring software developer with a passion for building scalable, user-centric applications. With experience in Python, Django, Streamlit, Flask, and containerization tools like Docker, I love turning ideas into practical solutions. I'm actively exploring backend development, automation, and full-stack integrations, while contributing to open-source and building real-world projects.
+I'm a passionate software developer focused on building real-world, impactful tech solutions. I enjoy working on projects involving backend development, automation, and AI integrations.
 
-- 🎓 CSE Student at **Lovely Professional University**
-- 🔭 Currently working on ML + CV based projects using **OpenCV**, **Streamlit**, and **Django**
-- 💡 Exploring **Docker**, **CI/CD pipelines**, and **Machine Learning model deployment**
-- 📈 Solved 150+ LeetCode problems | ⭐ 5-Star C++ on HackerRank
-- 📫 Reach me at: `kashishpratap4@gmail.com` | [LinkedIn](https://www.linkedin.com/in/kashish-pratap-07547b254/)
+- 💻 Currently exploring: **Django**, **Streamlit**, **OpenCV**, **ML Ops**
+- ⚙️ Learning DevOps tools like **Docker**, **CI/CD**, **GitHub Actions**
+- 🧠 Solved 400+ LeetCode problems | ⭐ 5-Star C++ on HackerRank
+- 📬 Reach me at: `kashishpratap4@gmail.com`
 
 ---
 
-### 🧰 Tech Stack
+### ⚒️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
-![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
-![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-333?style=flat&logo=githubactions)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [🧠 StudyBuddy](https://github.com/kashishpratap9/StudyBuddy) | An AI study assistant using Streamlit and LangChain |
+| [🩺 AI Medical Recommender](https://github.com/kashishpratap9/AI-Medical-Recommendation-System) | Suggests treatments based on symptoms using ML & Streamlit |
+| [📒 NoteStack](https://github.com/kashishpratap9/NoteStack) | Smart note-taking and task management app built with Django |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashishpratap9&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashishpratap9&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kashishpratap9&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashishpratap9&theme=tokyonight" alt="streak" />
 </p>
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [🧠 StudyBuddy](https://github.com/kashishpratap9/StudyBuddy) | AI Study Assistant using Streamlit & LangChain |
-| [🩺 AI Medical Recommendation System](https://github.com/kashishpratap9/AI-Medical-Recommendation-System) | Smart system that suggests treatments based on patient symptoms using ML & Streamlit |
-| [🗂️ NoteStack](https://github.com/kashishpratap9/NoteStack) | Smart note-taking and task-tracking web app using Django & Bootstrap |
 
 ---
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kashish-pratap-07547b254/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](kashishpratap4@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kashish-pratap-07547b254/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kashishpratap4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
