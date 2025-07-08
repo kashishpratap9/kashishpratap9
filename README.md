@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kashish Pratap Singh</h1>
+<h1 align="center">Hi 👋, I'm Kashish Pratap</h1>
 <h3 align="center">Aspiring Software Engineer | Data & Automation Enthusiast</h3>
 
 <p align="center">
@@ -10,10 +10,9 @@
 ### 👨‍💻 About Me
 
 I'm a passionate software developer focused on building real-world, impactful tech solutions. I enjoy working on projects involving backend development, automation, and AI integrations.
-
-- 💻 Currently exploring: **Automation tools**, **Development tech stack (JavaScript)**, **Django**, and **AWS Cloud Services**
+- 💻 Currently exploring: **Automation tools**, **JavaScript**, **Django**, and **AWS Cloud Services**
 - ⚙️ Learning DevOps tools like **Docker**, **CI/CD**, **GitHub Actions**
-- 🧠 Solved 150+ LeetCode problems | ⭐ 5-Star C++ on HackerRank
+- 🧠 Solved 400+ LeetCode problems | ⭐ 5-Star C++ on HackerRank
 - 📬 Reach me at: `kashishpratap4@gmail.com`
 
 ---
