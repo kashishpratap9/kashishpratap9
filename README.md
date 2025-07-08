@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashish Pratap Singh</h1>
 <h3 align="center">Aspiring Software Engineer | Data & Automation Enthusiast</h3>
----
 
 ### 👨‍💻 About Me
-
 
 I'm a passionate software developer focused on building real-world, impactful tech solutions. I enjoy working on projects involving backend development, automation, and AI integrations.
 
